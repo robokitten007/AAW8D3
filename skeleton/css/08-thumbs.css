@@ -1,0 +1,19 @@
+/* PHASE 2: Thumbs */
+
+.thumb:hover:before {
+content: attr(title);
+position: absolute;
+}
+
+.flex-container ul {
+    display: flex; 
+    flex-wrap: wrap;
+    
+}
+
+.flex-container > ul > li{
+    width: 25%;
+    margin: 5px 5px;
+    border: solid 1px black
+}
+

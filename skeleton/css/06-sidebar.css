@@ -1,0 +1,18 @@
+/* PHASE 0: Sidebar */
+.profile-picture{
+
+display: block; 
+margin-top: -120px;
+position: relative;
+
+}
+
+.profile-nav li:first-child {
+
+    border-top: 1px solid gray;    
+}
+
+.profile-nav li {
+
+    border-bottom: 1px solid gray;
+}
